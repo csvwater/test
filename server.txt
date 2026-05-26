@@ -1,1 +1,1 @@
-server-test:keltp-14-161-24-136.run.pinggy-free.link:37663:0
+server-test:172.236.137.204:37663:0
