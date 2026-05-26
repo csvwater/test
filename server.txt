@@ -1,1 +1,1 @@
-server-test:172.236.136.154:39291:0
+server-test:vfcew-14-161-24-136.run.pinggy-free.link:44425:0
