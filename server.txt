@@ -1,1 +1,1 @@
-﻿server-VPN:192.168.10.122:19129:0,server-Public:fxtun.dev:10001:0
+﻿server-VPN:192.168.10.122:19129:0,server-Public:fxtun.dev:10003:0
