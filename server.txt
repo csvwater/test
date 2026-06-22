@@ -1,4 +1,4 @@
 ﻿server-Public:fxtun.dev:10002:0,
 server-VPN:192.168.10.122:19129:0,
 server-Guest:192.168.68.182:19129:0,
-server-Pinggy:zoutb-113-161-32-84.run.pinggy-free.link:34851:0
+server-Pinggy:nmeaq-113-161-32-84.run.pinggy-free.link:4528:0
