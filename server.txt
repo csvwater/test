@@ -1,4 +1,4 @@
 ﻿server-Public:fxtun.dev:10010:0,
 server-VPN:192.168.10.122:19129:0,
 server-Guest:192.168.68.182:19129:0,
-server-Pinggy:wptka-14-161-24-136.run.pinggy-free.link:417:0
+server-Pinggy:wptka-14-161-24-136.run.pinggy-free.link:41737:0
