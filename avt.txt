@@ -1,2 +1,4 @@
 *Xu So Dieu Ky
-Thanh Pho Local:fxtun.dev:19128
+Thanh Pho Local:fxtun.dev:19128,
+server-VPN:192.168.10.122:19128,
+server-Guest:192.168.68.182:19128,
