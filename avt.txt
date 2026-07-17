@@ -2,3 +2,4 @@
 Thanh Pho Local:fxtun.dev:19128,
 server-VPN:192.168.10.122:19128,
 server-Guest:192.168.68.182:19128,
+server-Pinggy:igpkb-14-161-24-136.run.pinggy-free.link:32979
