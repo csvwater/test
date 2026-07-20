@@ -1,5 +1,9 @@
 *Xu So Dieu Ky
-Thanh Pho Local:fxtun.dev:19128,
-server-VPN:192.168.10.122:19128,
-server-Guest:192.168.68.182:19128,
-server-Pinggy:igpkb-14-161-24-136.run.pinggy-free.link:32979
+Thanh Pho Hoan My:112.213.85.102:19128
+Thanh Pho Dieu Ky:112.213.85.101:19128
+
+*Xu So Hoan My
+Thanh Pho Fxtun:fxtun.dev:19128,
+Thanh Pho VPN:192.168.10.122:19128,
+Thanh Pho Guest:192.168.68.182:19128,
+Thanh Pho Pinggy:igpkb-14-161-24-136.run.pinggy-free.link:32979
