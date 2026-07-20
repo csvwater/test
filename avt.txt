@@ -1,8 +1,6 @@
 *Xu So Dieu Ky
-Thanh Pho Hoan My:112.213.85.102:19128
-Thanh Pho Dieu Ky:112.213.85.101:19128
-
-*Xu So Hoan My
+Teamobi Thanh Pho Hoan My:112.213.85.102:19128,
+Teamobi Thanh Pho Dieu Ky:112.213.85.101:19128,
 Thanh Pho Fxtun:fxtun.dev:19128,
 Thanh Pho VPN:192.168.10.122:19128,
 Thanh Pho Guest:192.168.68.182:19128,
