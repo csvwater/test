@@ -1,7 +1,7 @@
 ﻿server-Public:fxtun.dev:19129:0,
 server-VPN:192.168.10.122:19129:0,
 server-Guest:192.168.68.156:19129:0,
-server-Pinggy:ndgez-113-161-32-84.run.pinggy-free.link:35941:0,
+server-Pinggy:wwkof-113-161-32-84.run.pinggy-free.link:41027:0,
 server-local:127.0.0.1:19129:0,
 server-mobile:27.71.76.63:19129:0,
 server-ddns:kpah222.ddns.net:19129:0
